@@ -22,8 +22,10 @@
 
 <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=andreaconv&show_icons=true&theme=dark&locale=en" alt="andreaconv" />
+</div>
+&nbsp;
+<div align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andreaconv&theme=dark&locale=en" alt="andreaconv" />
 </div>
-
 &nbsp;
 <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andreaconv&show_icons=true&langs_count=8&theme=transparent&locale=en&hide=hack" alt="andreaconv" /></div>
